@@ -28,7 +28,7 @@ Clonagem do repositorio.
 ![Repositório](https://github.com/NioiOtaku/Clonador/blob/master/ptr3.png)
 
 
-Para colar o Link de Clonagem na janela do Promt basta clicar com o botão direito
+Para colar o Link de Clonagem na janela do Prompt basta clicar com o botão direito
 e clicar em **Colar**.
 
 
